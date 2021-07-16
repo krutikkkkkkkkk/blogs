@@ -3,6 +3,11 @@
 ### What does HTTP 404 mean?
 
 The HTTP 404, 404 Not Found, 404, 404 Error, Page Not Found or File Not Found error message is a Hypertext Transfer Protocol standard response code, in computer network communications, to indicate that the browser was able to communicate with a given server, but the server could not find what was requested. 
+
+Want to Know More About HTTP Response codes Checkout.
+
+https://ayushirawat.com/http-status-codes-that-you-must-know
+
 <hr>
 
 **The Default 404 error pages are not good looking and don't have any type of navigations**
