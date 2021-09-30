@@ -1,4 +1,4 @@
-## 3D Cube with animations... Only CSS👀 feat.Nar
+## 3D Cube with animations... Only CSS👀 feat.Naruto
 
 
 <iframe height="350" style="width: 100%;" scrolling="no" title="CSS Cube [Naruto]" src="https://codepen.io/reboot13/embed/wvdWQGb?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
