@@ -31,8 +31,8 @@ let myFunction = (arg1, arg2, ...argN) => {
 ```
 
 
-If the body has single statement or expression, 
-you can write arrow function as:
+If the body has a single statement or expression, 
+you can write the arrow function as:
 
 
 
@@ -50,7 +50,7 @@ and the return keyword
 
 ***Arrow Function with No Argument***
 
-If a function doesn't take any argument, then you should use empty parentheses. for example,
+If a function doesn't take any argument, then you should  use empty parentheses. for example,
 
 ```
 let greet = () => console.log('Hello');
@@ -60,7 +60,7 @@ greet(); // Hello
 
 ***Arrow Function with One Argument***
 
-If a function has only one argument, you can omit the parentheses. For example,
+If a function has only one argument, you can omit the  parentheses. For example,
 
 ```
 let greet = x => console.log(x);
@@ -80,7 +80,7 @@ An arrow function expression is a compact alternative to a traditional function 
 
 ***Differences & Limitations:***
 
-Does not have its own bindings to **this** or **super**, and should not be used as methods.
+Does not have its bindings to **this** or **super**, and should not be used as a method.
 
 Does not have **new.target** keyword.
 
